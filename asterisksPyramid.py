@@ -22,7 +22,7 @@ Can you write a program that generates this pyramid with a N value of 10?
 # import mysql.connector
 # import pandas as pd
 asteriskAddition = 0
-lenOfPyramid = 15
+lenOfPyramid = 10
 spaceToOffset = lenOfPyramid-1
 for i in range(1,lenOfPyramid+1):
   print( ' '*spaceToOffset + '*'*(i+asteriskAddition) )
