@@ -67,7 +67,7 @@ def show_hierarchy(cls):
         print(specificClass.__name__)
 
 
-# Test your implementation - DO NOT MODIFY THIS TEST CODE
+# Test implementation - DO NOT MODIFY THIS TEST CODE
 # Create instances
 person = Person("John Smith", 30)
 employee = Employee("Alice Johnson", 35, "E12345", 60000)
